@@ -1,0 +1,25 @@
+{
+  "name": "Gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "js": "yarn run gulp js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giandalpont/Gulp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giandalpont/Gulp/issues"
+  },
+  "homepage": "https://github.com/giandalpont/Gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.2"
+  }
+}
